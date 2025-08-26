@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Data Table AAG
- * Description:       Dynamic data table block for WordPress.
+ * Description:       Dynamic data table block for WordPress. For CSV files.
  * Version:           0.1.0
  * Requires at least: 6.7
  * Requires PHP:      7.4
