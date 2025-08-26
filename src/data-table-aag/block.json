@@ -1,0 +1,19 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "data-table-aag/dynamic-data-table",
+	"version": "1.0.0",
+	"title": "Dynamic Data Table (AAG)",
+	"category": "common",
+	"icon": "analytics",
+	"description": "A block that displays a dynamic, filterable, and sortable data table from a CSV file.",
+	"attributes": {},
+	"supports": {
+		"html": false
+	},
+	"textdomain": "data-table-aag",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+	"viewScript": "file:./view.js"
+}
